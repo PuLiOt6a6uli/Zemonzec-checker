@@ -27,7 +27,7 @@ The Zemonzec collection on ZRC-20 has indexed its NFTs! This is a unique "first-
    - Copy the transaction hash where you received 0.06 USD
 
 3. **Verify in Check.txt**
-   - Open the `Check.txt` file in this repository
+   - Open the `Checkzemon.txt` file in this repository "View RAW"
    - Use `CTRL+F` (or `CMD+F` on Mac) to search for your transaction hash
 
 4. **Determine ownership**
